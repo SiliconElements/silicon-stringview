@@ -1,0 +1,26 @@
+{
+  "name": "silicon-stringview",
+  "version": "1.0.1",
+  "authors": [
+    "m4b <m4b.github.io@gmail.com>"
+  ],
+  "description": "Provides an import wrapper for the Stringview library",
+  "keywords": [
+      "web-component",
+      "stringview",
+      "polymer"
+  ],
+  "main": "silicon-stringview.html",
+  "license": "LICENSE",
+  "homepage": "https://github.com/m4b/silicon-stringview/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.x"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
